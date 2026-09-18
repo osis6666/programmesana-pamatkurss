@@ -1,1 +1,1 @@
-print("Sveika, pasaule! Esmu klat!")
+print("Sveiks! Sis ir mans treshais commit.")

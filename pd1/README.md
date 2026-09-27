@@ -32,3 +32,7 @@ Grūtākais solis bija publicēšana: krātuve līdz šim bija tikai datorā, t�
 ## Commit ziņu likums
 
 Ziņa sākas ar darbības vārdu un pasaka, kas mainīts, piemēram "Pievieno PD1 darbu". Ziņas kā "izmainas" vai "update" nelietoju, jo pēc tām nevar saprast izmaiņu, commit neatverot.
+
+## Licence
+
+MIT: kodu drīkst brīvi lietot, mainīt un izplatīt, ja saglabā autora vārdu. Pilns teksts krātuves saknes failā `LICENSE`.

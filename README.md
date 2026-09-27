@@ -1,10 +1,11 @@
 # programmesana-pamatkurss
 
-GitHub lietotajvards: tavs_vards  <- ieraksti savu isto
+GitHub lietotajvards: osis6666
 
 ## Mape
 - uzdevumi/ - koda faili
 - dati/ - dati, netiek sutiti uz GitHub
+- pd1/ - 1. temas nosleguma parbaudes darbs
 - .gitignore - ko Git ignore
 
 ## Secinajumi

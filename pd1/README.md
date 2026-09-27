@@ -23,3 +23,11 @@ Ja terminālis jau atrodas mapē `pd1/kods`, pietiek ar `python sveiciens.py`. P
 - **Noteikums 20-20-20**: ik pēc 20 minūtēm 20 sekundes skatos uz kaut ko 6 metru attālumā, lai atpūtinātu acis.
 - **Taisna mugura, kājas uz grīdas**, elkoņi aptuveni taisnā leņķī - mazāka slodze mugurai un plaukstu locītavām.
 - **Pārtraukums reizi stundā**: piecelties un pakustēties.
+
+## Secinājums
+
+Grūtākais solis bija publicēšana: krātuve līdz šim bija tikai datorā, tāpēc pirms Push origin to vajadzēja publicēt GitHub ar Publish repository.
+
+## Commit ziņu likums
+
+Ziņa sākas ar darbības vārdu un pasaka, kas mainīts, piemēram "Pievieno PD1 darbu". Ziņas kā "izmainas" vai "update" nelietoju, jo pēc tām nevar saprast izmaiņu, commit neatverot.

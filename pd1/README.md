@@ -1,6 +1,7 @@
 # PD1 darba vide
 
 Autors: **Oskars Stobovs**
+
 Kurss: **Programmēšana I**, 1. tēmas noslēguma darbs
 
 ## Palaišana
@@ -19,10 +20,10 @@ Ja terminālis jau atrodas mapē `pd1/kods`, pietiek ar `python sveiciens.py`. P
 
 ## Ergonomika
 
-- **Monitors acu līmenī**, rokas stiepiena attālumā - kakls nav jāliec uz leju.
-- **Noteikums 20-20-20**: ik pēc 20 minūtēm 20 sekundes skatos uz kaut ko 6 metru attālumā, lai atpūtinātu acis.
-- **Taisna mugura, kājas uz grīdas**, elkoņi aptuveni taisnā leņķī - mazāka slodze mugurai un plaukstu locītavām.
-- **Pārtraukums reizi stundā**: piecelties un pakustēties.
+- Monitors acu līmenī, rokas stiepiena attālumā - kakls nav jāliec uz leju.
+- Noteikums 20-20-20: ik pēc 20 minūtēm 20 sekundes skatos uz kaut ko 6 metru attālumā, lai atpūtinātu acis.
+- Taisna mugura, kājas uz grīdas, elkoņi aptuveni taisnā leņķī - mazāka slodze mugurai un plaukstu locītavām.
+- Pārtraukums reizi stundā: piecelties un pakustēties.
 
 ## Secinājums
 
